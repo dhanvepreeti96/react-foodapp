@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dhanvepreeti96/react-foodapp.git/static/css/main.3618cb23.css",
+    "main.js": "/dhanvepreeti96/react-foodapp.git/static/js/main.d685a496.js",
+    "index.html": "/dhanvepreeti96/react-foodapp.git/index.html",
+    "main.3618cb23.css.map": "/dhanvepreeti96/react-foodapp.git/static/css/main.3618cb23.css.map",
+    "main.d685a496.js.map": "/dhanvepreeti96/react-foodapp.git/static/js/main.d685a496.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3618cb23.css",
+    "static/js/main.d685a496.js"
+  ]
+}
